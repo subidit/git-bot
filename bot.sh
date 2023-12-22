@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 START_Y=2012
-END_Y=2020
+END_Y=2013
 
 for Y in $(eval "echo {$START_Y..$END_Y}"); do
     for M in {01..12}; do
