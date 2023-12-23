@@ -1,1 +1,13 @@
-https://gist.github.com/cuuupid/0513d98556021d738c0cb72be0a63615
+## Random Git Pusher
+
+Run the `bot.sh` file to generate random (0 to 9) number of git commits for the date range you pride.
+
+### Usage
+
+1. Run the `bot.sh` file as
+```bash
+bash bot.sh
+```
+2. Give start date in YYYY-MM-DD format
+3. Give end date in YYYY-MM-DD format
+4. Enjoy!
