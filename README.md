@@ -4,6 +4,8 @@ Run the `bot.sh` file to generate random (0 to 9) number of git commits for the 
 
 ### Usage
 
+Fork the repo and open in your terminal.
+
 1. Run the `bot.sh` file as
 ```bash
 bash bot.sh
@@ -14,4 +16,4 @@ bash bot.sh
 
 - In **Windows** Your Git folder has a `Git Bash` app from where you can run this.
 - In **MacOS** use `mac-bot.sh`
-- In **Linux** and **Windows** use `gnu-bot.sh`
+- In **Linux** or **WSL** use `gnu-bot.sh`
